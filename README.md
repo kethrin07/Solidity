@@ -20,7 +20,7 @@ Switch to the "Deploy & Run Transactions" tab. Select the correct compiler versi
 
 Once deployed, you'll see your contract in the "Deployed Contracts" section. Expand it to see its functions and variables. Use the provided UI to interact with your contract, such as minting or burning tokens.
 
-## Authors
+## Author
 
 Kethrin Naharwal
 
