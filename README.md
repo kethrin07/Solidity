@@ -18,7 +18,6 @@ In making MyToken, I wanted to create a simple yet powerful tool for digital mon
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
 Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a .sol extension (e.g., HelloWorld.sol). Copy and paste the code into the file.
-![image](https://github.com/kethrin07/Solidity/assets/114412440/cc194a9a-44c2-488a-8e7a-4d28e59d12e1)
 
 Click on the "Compile" tab on the left sidebar to compile your Solidity code. Ensure there are no compilation errors.
 
@@ -31,7 +30,3 @@ Once deployed, you'll see your contract in the "Deployed Contracts" section. Exp
 Kethrin Naharwal
 [@KethrinNaharwal](www.linkedin.com/in/kethrin-naharwal-8a7060272)
 
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE.md file for details
