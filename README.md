@@ -1,6 +1,4 @@
-# Project Title
-
-Create a Token
+# Create New Token
 
 ## Description
 
