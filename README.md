@@ -28,5 +28,4 @@ Once deployed, you'll see your contract in the "Deployed Contracts" section. Exp
 ## Authors
 
 Kethrin Naharwal
-[@KethrinNaharwal](www.linkedin.com/in/kethrin-naharwal-8a7060272)
 
